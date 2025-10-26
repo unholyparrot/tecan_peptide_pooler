@@ -1,0 +1,5 @@
+venv/
+*.log
+*test_output/
+*test_input/
+pool_peptides.ipynb
