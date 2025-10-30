@@ -1,0 +1,4 @@
+loguru==0.7.3
+pandas==2.3.3
+PyYAML==6.0.3
+robotools==1.14.0
